@@ -3174,16 +3174,16 @@ output {
 }
 
 .form-control::-moz-placeholder {
-    color: #acb6c0;
+    color: #ff6666;
     opacity: 1
 }
 
 .form-control:-ms-input-placeholder {
-    color: #acb6c0
+    color: #ff6666
 }
 
 .form-control::-webkit-input-placeholder {
-    color: #acb6c0
+    color: #ff6666
 }
 
 .form-control[disabled],
