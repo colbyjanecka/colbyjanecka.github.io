@@ -117,6 +117,7 @@ header .intro-text .skills {
 
     header .intro-text .name {
         font-size: 4.75em;
+        
     }
 
     header .intro-text .skills {
@@ -327,7 +328,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #fff;
+    color: #cbbeb5;
 }
 
 footer h3 {
