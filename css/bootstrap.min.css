@@ -3729,8 +3729,8 @@ fieldset[disabled] a.btn {
 
 .btn-default {
     color: #cbbeb5;
-    background-color: #95a5a6;
-    border-color: #95a5a6
+    background-color: #2C3639;
+    border-color: #2C3639
 }
 
 .btn-default:focus,
@@ -5449,7 +5449,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-default .navbar-brand {
-    color: #cbbeb5
+    color: #DCD7C9
 }
 
 .navbar-default .navbar-brand:hover,
@@ -7121,7 +7121,7 @@ button.close {
 
 .modal-content {
     position: relative;
-    background-color: #cbbeb5;
+    background-color: #DCD7C9;
     border: 1px solid #999999;
     border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: 6px;
