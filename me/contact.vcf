@@ -8,7 +8,7 @@ TEL;type=CELL;type=VOICE;type=pref:(254) 722-2179
 item1.TEL:(254) 722-2179
 item1.X-ABLabel:WhatsApp
 X-SOCIALPROFILE;type=twitter:http://twitter.com/twitter.com/colbyjanecka
-item2.URL;type=pref:https://heycolby.com
+item2.URL;type=pref:https://heycolby.com/
 item2.X-ABLabel:PORTFOLIO
 item3.IMPP;X-SERVICE-TYPE=Discord;type=pref:x-apple:hiplandic%230001
 item3.X-ABLabel:Discord
